@@ -26,6 +26,3 @@ const float c = 10;
 class MyClass;
 string method1(int x1, ref char x2, out float x3);
 ```
-*Пример дерева для данного фрагмента исходной программы представлен ниже:*
-
-![alt text](Tree.htm) 
