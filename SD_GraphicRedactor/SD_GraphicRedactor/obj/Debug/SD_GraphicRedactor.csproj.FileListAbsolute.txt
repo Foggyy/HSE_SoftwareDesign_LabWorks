@@ -1,0 +1,11 @@
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\bin\Debug\SD_GraphicRedactor.exe.config
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\bin\Debug\SD_GraphicRedactor.exe
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\bin\Debug\SD_GraphicRedactor.pdb
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.csprojAssemblyReference.cache
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.frmChild.resources
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.MDIParent1.resources
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.Properties.Resources.resources
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.csproj.GenerateResource.cache
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.csproj.CoreCompileInputs.cache
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.exe
+G:\Универ\2 курс\Software Design\SD_GraphicRedactor\SD_GraphicRedactor\obj\Debug\SD_GraphicRedactor.pdb

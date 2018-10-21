@@ -1,0 +1,20 @@
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe.config
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.pdb
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.csprojResolveAssemblyReference.cache
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.exe
+C:\Users\LocalUser\Desktop\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.pdb
+D:\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe.config
+D:\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe
+D:\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.pdb
+D:\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.csprojAssemblyReference.cache
+D:\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.csproj.CoreCompileInputs.cache
+D:\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.exe
+D:\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.pdb
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe.config
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.exe
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\bin\Debug\TreeIdentificator.pdb
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.csprojAssemblyReference.cache
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.csproj.CoreCompileInputs.cache
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.exe
+G:\Универ\2 курс\Software Design\TreeIdentificator\TreeIdentificator\obj\Debug\TreeIdentificator.pdb
